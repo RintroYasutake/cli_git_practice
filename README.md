@@ -25,3 +25,9 @@ git checkout feature/branch-practice
 中段はジャスパしろ
 
 キャミィのワンボタンSA3は強い
+
+マージ
+```
+git checkout main
+git merge feature/branch-practice
+```
