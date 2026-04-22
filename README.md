@@ -6,3 +6,6 @@ GITのCLI(コマンドライン)でのクローン
 ```
 git clone git@github.com:RintroYasutake/cli_git_practice
 ```
+
+
+弱デガジェはガードしよう
