@@ -27,3 +27,9 @@ git checkout feature/branch-practice
 キャミィのワンボタンSA3は強い
 
 ザンギはSA3がたまったら別キャラになる
+
+マージ
+```
+git checkout main
+git merge feature/branch-practice
+```
