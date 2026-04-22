@@ -26,3 +26,5 @@ git checkout feature/branch-practice
 ```
 
 中段はジャスパしろ
+
+キャミィのワンボタンSA3は強い
