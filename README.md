@@ -9,3 +9,18 @@ git clone git@github.com:RintroYasutake/cli_git_practice
 
 
 弱デガジェはガードしよう
+
+ステージング & コミット
+```
+git add .\README.md
+git commit -m "first commit"
+```
+
+ブランチ
+```
+確認：git branch
+新規：git checkout -b feature/branch-practice
+移動：
+git checkout main
+git checkout feature/branch-practice
+```
