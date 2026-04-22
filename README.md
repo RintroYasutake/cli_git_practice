@@ -28,6 +28,14 @@ git checkout feature/branch-practice
 
 マージ
 ```
+マージは「取り込み先のブランチで」実行する。
+まず main に切り替え、最新化してから
+feature ブランチをマージする。
+
 git checkout main
+git pull origin main
 git merge feature/branch-practice
+
+コンフリクトが発生した場合は内容を修正し、
+git add → git commit でマージを完了する。
 ```
