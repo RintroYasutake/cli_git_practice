@@ -33,3 +33,5 @@ git checkout feature/branch-practice
 git checkout main
 git merge feature/branch-practice
 ```
+
+mainを更新します
