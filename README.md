@@ -24,3 +24,5 @@ git commit -m "first commit"
 git checkout main
 git checkout feature/branch-practice
 ```
+
+中段はジャスパしろ
