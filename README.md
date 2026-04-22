@@ -34,4 +34,4 @@ git checkout main
 git merge feature/branch-practice
 ```
 
-mainを更新します
+branch-practiceからの追加テキスト
